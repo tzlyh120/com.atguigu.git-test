@@ -11,7 +11,7 @@ public class GitTest {
         System.out.println("mtmb3");
         System.out.println("mtmb4");
         System.out.println("master test");
-        System.out.println("fix test mtmb4");
+        System.out.println("push test mtmb4");
 
     }
 }
