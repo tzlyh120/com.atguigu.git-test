@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("mtmb4");
         System.out.println("master test");
         System.out.println("push test mtmb4");
+        System.out.println("pull test mtmb4");
 
     }
 }
